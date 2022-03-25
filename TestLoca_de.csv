@@ -1,7 +1,8 @@
-source,target
-amwCoordinates,Koordinaten:
-amwMarkerIcon,Icon:
-bmDesertLowMountains,Niedrige Berge
-bmArcticHighForest
-igmBlockWrongFaction,Kann {0} nicht zugreifen: andere Fraktion!
-msgALeftGame
+location,source,target,ID,fuzzy,context,translator_comments,developer_comments
+,amwCoordinates,Koordinaten:
+,amwMarkerIcon,Icon:
+,bmDesertLowMountains,Niedrige Berge
+,bmArcticHighForest
+,HullCombatFullLarge,Super-Block Groß
+,igmBlockWrongFaction,Kann {0} nicht zugreifen: andere Fraktion!
+,msgALeftGame
