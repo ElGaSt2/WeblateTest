@@ -1,8 +1,8 @@
-location,source,target
-,amwCoordinates,Coordinates:
-,amwMarkerIcon,Marker Icon:
-,bmDesertLowMountains,Low Mountains
-,bmArcticHighForest,Artic High Forest
-,HullCombatFullLarge,Combat Steel Block L
-,igmBlockWrongFaction,Cannot access {0}: other faction!
-,msgALeftGame,Player {0} left the game
+source,target
+amwCoordinates,Coordinates:
+amwMarkerIcon,Marker Icon:
+bmDesertLowMountains,Low Mountains
+bmArcticHighForest,Artic High Forest
+HullCombatFullLarge,Combat Steel Block L
+igmBlockWrongFaction,Cannot access {0}: other faction!
+msgALeftGame,Player {0} left the game
